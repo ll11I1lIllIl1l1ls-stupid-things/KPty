@@ -1,0 +1,4 @@
+package = jpty.pty
+headers = pty_macos.h
+compilerOpts = -I.
+linkerOpts = -lutil --as-needed

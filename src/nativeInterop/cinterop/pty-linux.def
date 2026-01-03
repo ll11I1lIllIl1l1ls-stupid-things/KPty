@@ -1,0 +1,2 @@
+compilerOpts = -D_GNU_SOURCE -I.
+linkerOpts = -lutil --as-needed

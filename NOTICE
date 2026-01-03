@@ -1,11 +1,15 @@
+KPty - A Kotlin/Native port of JPty
 JPty - A small PTY interface for Java.
 
+Copyright 2026 ll11l1lIllIl1lll <niaodongwan@national.shitposting.agency>.
+
+-------------------------------------------------------------------------
+
+This product includes software developed by J.W. Janssen,
+originally licensed under the Apache License 2.0.
 (C) Copyright 2012 - J.W. Janssen <j.w.janssen@lxtreme.nl>.
 
 -------------------------------------------------------------------------
 
-This library includes software (JTermios) developed by Kustaa Nyholm. 
-Copyright (c) 2011, Kustaa Nyholm / SpareTimeLabs.
-
-This library includes software (JNA) developed by Timothy Wall and others.
-Copyright (C) 2012, Timothy Wall / JNA community.
+Portions of this software were derived from the Java implementation of
+JPty (https://github.com/jawi/JPty).

@@ -1,0 +1,1 @@
+extern int forkpty(int *amaster, char *name, void *termp, void *winp);
